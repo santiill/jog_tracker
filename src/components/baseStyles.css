@@ -1,0 +1,167 @@
+.header {
+    width: 1440px;
+    height: 50px;
+    padding: 20px 1256px 20px 37px;
+    background-color: #7ed321;
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+}
+.headerLogo {
+    width: 147px;
+    height: 56px;
+    padding: 0 1.3px 0 0;
+    object-fit: contain;
+    color: #ffffff;
+}
+.login_cont {
+    width: 503px;
+    height: 379px;
+    margin: 207px 468px 0 469px;
+    padding: 77px 171px 36px 172px;
+    border-radius: 44px;
+    background-color: #e990f9;
+}
+.login_button {
+    width: 151px;
+    height: 60px;
+    margin: 56px 5px 0 4px;
+    padding: 20px 34px 19px;
+    border-radius: 36px;
+    border: solid 3px #ffffff;
+    background: transparent;
+    color: #ffffff;
+    font-size: 18px;
+}
+.jog_cont {
+    display: flex;
+    align-items: center;
+}
+.jog_icon {
+    width: 87px;
+    height: 87px;
+    margin: 20px 46px 20px 599px;
+    padding: 25.1px 16.1px 24px 16px;
+    object-fit: contain;
+}
+.name {
+    font-family: sans-serif;
+    width: 48px;
+    height: 16px;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+}
+.item {
+    font-size: 14px;
+    color: gray;
+    font-family: sans-serif;
+    list-style-type: none;
+}
+.jog_desc {
+    text-align: start;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.addIcon {
+    position: fixed;
+    bottom: 60px;
+    right: 80px;
+}
+.add_cont {
+    width: 503px;
+  height: 379px;
+  margin: 118px 468px 0 469px;
+  padding: 60px 27px 4px 27px;
+  border-radius: 44px;
+  background-color: #7ed321;
+  display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+   
+}
+
+.input {    
+    width: 236px;
+    height: 31px;
+    margin: 0px 20px;
+    border-radius: 7px;
+    padding: 0px 10px;
+    border: solid 1px #979797;
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+.add_button {
+    width: 320px;
+    height: 44px;
+    margin: 46px 38px 0 3px;
+    padding: 14px 124px 16px 124px;
+    border-radius: 25.2px;
+    border: solid 2px #ffffff;
+    background: transparent; color: #ffffff;
+}
+.inpt {display: flex;}
+
+.input_cont {display: flex;flex-direction: column;gap: 25px;}
+
+.label {padding: 4px 0px;text-align: start;font-size: 17px;font-weight: 500;}
+
+.cancel_icon {position: absolute;top: 27px;right: 27px;}
+
+.filter_cont {width: 1440px;
+    height: 60px;
+    
+    padding: 16px 529px 13px 530px;
+    background-color: #eaeaea;display: flex;align-items: center;}
+  
+  .filter_input {width: 100px;
+    height: 21px;
+    border-radius: 11px;
+    border: solid 1px #979797;
+    background-color: white;    margin: 10px 40px 10px 10px;
+padding: 0px 5px}
+  
+  label {width: 61px;
+    height: 15px;
+    margin: 8px 15px 8px 0;
+    font-family: sans-serif;
+    font-size: 16px;margin: 100px;}
+
+.filter_cont {width: 1440px;
+    height: 60px;
+    
+    padding: 16px 529px 13px 530px;
+    background-color: #eaeaea;display: flex;align-items: center;}
+    
+    input.filter_input {width: 100px;
+    height: 31px;
+    
+    border-radius: 11px;
+    border: solid 1px #979797;
+    background-color: white;margin: 10px 40px  10px 10px;}
+    
+    .filter_label {width: 61px;
+    height: 15px;
+    margin: 8px 15px 8px 0;
+    font-family: sans-serif;
+    font-size: 16px;margin: 0;}
+    
+    .header_text {
+    height: 16px;
+    
+    font-family: sans-serif;
+    font-size: 14px;color: white;}
+    h2.info_title {
+        margin: 85px 939.5px 15px 411.5px;
+        font-family: sans-serif;
+        font-size: 36px;color: #7ed321;}
+      
+      p.info_text {
+        
+        text-align: start;padding: 0px 462px;font-size: 17px;}
+    .header_text_cont {display: flex;list-style-type: none;font-weight: 600;gap: 46px;}
